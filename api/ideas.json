@@ -1,0 +1,14 @@
+[    
+    {
+        "message": "Check a subreddit",
+        "status": "success"
+    },
+    {
+        "message": "Check a non-work-related Slack channel",
+        "status": "success"
+    },
+    {
+        "message": "Check up on friends in discord",
+        "status": "success"
+    }
+]
