@@ -10,3 +10,8 @@ Screenshot:
 
 Run Front-end: `cd my-app && npm start` </br>
 Run Back-end: `cd api && node index.js`
+
+
+Possible future work:
+- Deploy (frontend and backend, if not, turn into static website)
+- 5 min and 15 min options
