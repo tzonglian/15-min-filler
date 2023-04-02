@@ -17,9 +17,9 @@ app.get("/", (req, res, next) => {
   res.send(idea);
 });
 
-// app.get("/", (request, response) => {
-//   response.send("Hi there");
-// });
+app.get("/5min", (req, res, next) => {
+  res.send("Hi there");
+});
 
 app.listen(4000, () => {
   console.log("Listen on the port 4000...");

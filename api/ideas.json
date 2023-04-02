@@ -10,5 +10,9 @@
     {
         "message": "Check up on friends in discord",
         "status": "success"
+    },
+    {
+        "message": "Meditate",
+        "status": "success"
     }
 ]

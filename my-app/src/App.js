@@ -17,7 +17,13 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">{text.message}</header>
+      <header className="App-header">
+        {text.message}
+        {/* refresh button */}
+        <button className="btn" onClick={() => window.location.reload(false)}>
+          Refresh
+        </button>
+      </header>
     </div>
   );
 }
